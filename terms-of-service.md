@@ -253,11 +253,11 @@ If informal resolution fails:
 
 ### 12.1 Jurisdiction
 
-These Terms are governed by the laws of [Your Country/State/Province], without regard to conflict of law principles.
+These Terms are governed by the laws of Canada without regard to conflict of law principles.
 
 ### 12.2 Venue
 
-Any legal action must be brought in courts located in [Your Location/Jurisdiction].
+Any legal action must be brought in courts located in Canada
 
 ### 12.3 International Users
 
@@ -301,7 +301,7 @@ For questions about these Terms:
 
 - **Discord**: @scrolling @5qw @glamorizing
 - **GitHub**: https://github.com/spaying/spell-docs/issues
-- **Email**: [Add your email if applicable]
+- **Email**: Soon.
 
 ### Support
 
