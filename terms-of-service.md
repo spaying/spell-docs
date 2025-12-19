@@ -299,7 +299,7 @@ We are not liable for delays or failures due to:
 
 For questions about these Terms:
 
-- **Discord**: `@spaying`
+- **Discord**: @scrolling @5qw @glamorizing
 - **GitHub**: https://github.com/spaying/spell-docs/issues
 - **Email**: [Add your email if applicable]
 
